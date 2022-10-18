@@ -1,0 +1,16 @@
+h1{
+color: darkcyan;    
+}
+h2{
+color: blue;    
+}
+div,p{
+text-align: justify;
+color:olivedrab;    
+}
+a:link{
+color: rgb(5, 207, 5);
+}
+a:visited{
+color: rgb(5, 207, 5);
+}
